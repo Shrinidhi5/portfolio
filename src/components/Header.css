@@ -1,0 +1,20 @@
+.container {
+    padding: 1.6rem;
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+   display: flex;
+   gap: 1.6rem;
+}
+.social{
+    display: flex;
+    gap: 1.6rem;
+}
+img {
+    width: 3.6rem;
+    height: 3.6rem;
+}
+#text-color{
+    color: #B17070;
+}
