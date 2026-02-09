@@ -5,10 +5,9 @@ import Maingrid from './Maingrid'
 
 const Section1 = () => {
   return (
-    <section>
+    <section className='sec1'>
        <Header/>
-       <Maingrid/>
-       
+       <Maingrid/> 
     </section>
   )
 }

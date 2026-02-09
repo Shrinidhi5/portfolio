@@ -1,0 +1,67 @@
+#cam{
+    position: absolute;
+    width: 690px;
+    height: auto;
+    top: 4000px;
+    right: 300px;
+}
+#pink{
+    position: absolute;
+    width: 400px;
+    height: auto;
+    top: 4260px;
+    right: 499px;
+    transform: rotate(-1deg);
+    border-radius: 20px;
+}
+#red{
+    position: absolute;
+    width: 342px;
+    height: 270px;
+    right: 545px;
+    top: 4787px;
+    transform: rotate(3deg);
+}
+#doll{
+    position: absolute;
+    width: 343px;
+    height: auto;
+    right: 746px;
+    top: 4490px;
+}
+.name{
+    position: absolute;
+    font-size: 150px;
+    left: 100px;
+    color: #E5757F;
+    font-family: "Sour Gummy", sans-serif;
+}
+h3{
+    position: absolute;
+    font-size: 61px;
+    left: 100px;
+    top: 4121px;
+    color: #55768C;
+    font-family: "Sour Gummy", sans-serif;
+}
+h4{
+    position: absolute;
+    font-size: 39px;
+    left: 100px;
+    top: 4250px;
+    width: 900px;
+    color: #B83556;
+    font-family: "Sour Gummy", sans-serif;
+}
+h5{
+    position: absolute;
+    font-size: 39px;
+    left: 100px;
+    top: 4600px;
+    width: 900px;
+    color: #B83556;
+    font-family: "Sour Gummy", sans-serif;
+}
+b{
+    color: #55768C;
+}
